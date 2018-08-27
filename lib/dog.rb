@@ -1,2 +1,5 @@
 class Dog 
-end 
+  def bark 
+    puts "Woof"
+  end #method 
+end #ends class
